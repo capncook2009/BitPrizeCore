@@ -1,2 +1,2 @@
 # BitPrizeHack
-Hackathon submission for Bitprize protocol
+Smart contracts for Bitprize protocol
